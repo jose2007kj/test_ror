@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+this repo just contain device authentication implimentation,
+https://github.com/jose2007kj/test_ror_2 --- this repo contains code for user registration then password gets send to the registerered mail[code i9nside user model using callbacks]"
